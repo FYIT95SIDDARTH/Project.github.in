@@ -100,7 +100,7 @@
 .container {
     height: 100vh;
     width: 100%;
-    background-image: url("images/hero-banner.jpg");
+    background-image: url("hero-banner.jpg");
     v
     background-repeat: no-repeat;
     display: flex;
